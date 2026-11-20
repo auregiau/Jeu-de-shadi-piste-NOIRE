@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\P_PROG\\Piste noire\\JeuDeShadi_PisteNoire\\JeuDeShadi_PisteNoire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29FACA6B-5544-D9BE-8D5C-08CCFCCEAAA5}|JeuDeShadi.csproj|h:\\p_prog\\piste noire\\jeudeshadi_pistenoire\\jeudeshadi_pistenoire\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FACA6B-5544-D9BE-8D5C-08CCFCCEAAA5}|JeuDeShadi.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "H:\\P_PROG\\Piste noire\\JeuDeShadi_PisteNoire\\JeuDeShadi_PisteNoire\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "H:\\P_PROG\\Piste noire\\JeuDeShadi_PisteNoire\\JeuDeShadi_PisteNoire\\Game1.cs*",
+              "RelativeToolTip": "Game1.cs*",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAqwKwBAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:34:10.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
